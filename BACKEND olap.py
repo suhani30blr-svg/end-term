@@ -59,4 +59,5 @@ finally:
         conn.close()
         print("Database connection closed.")
 
+
 print("--- ETL Pipeline complete! ---")
